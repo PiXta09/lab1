@@ -7,4 +7,5 @@ int main(){
     cout<<"Vvedite 2 chisla:";
     cin>>a>>b;
     cout<<a<<" "<<b;
+    cout<<"test";
 }
