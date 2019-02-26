@@ -6,6 +6,6 @@ int main(){
     int a,b;
     cout<<"Vvedite 2 chisla:";
     cin>>a>>b;
-    cout<<a<<" "<<b;
-    cout<<"test";
+    cout<<a<<" "<<b<<endl;
+    cout<<a-b;
 }
